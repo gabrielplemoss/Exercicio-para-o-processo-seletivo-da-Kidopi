@@ -20,7 +20,7 @@ class Router {
 
 			$controller->$method();
 		} else {
-			echo "<h1>asdasdas</h1>";
+			echo "<h1>erro</h1>";
 		}
 	}
 
